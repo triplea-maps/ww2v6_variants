@@ -1,0 +1,5 @@
+map_name: ww2v6_variants
+games:
+- {game_name: WWIIv6 Factory, file_name: WW2v6_Factory.xml}
+- {game_name: WWIIv6 No Capital, file_name: WW2v6_NoCapital.xml}
+version: 1
